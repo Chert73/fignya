@@ -1,0 +1,7 @@
+C:\Users\Мистер Дюк\source\repos\мин элемент\bin\Debug\мин элемент.exe.config
+C:\Users\Мистер Дюк\source\repos\мин элемент\bin\Debug\мин элемент.exe
+C:\Users\Мистер Дюк\source\repos\мин элемент\bin\Debug\мин элемент.pdb
+C:\Users\Мистер Дюк\source\repos\мин элемент\obj\Debug\мин элемент.csprojAssemblyReference.cache
+C:\Users\Мистер Дюк\source\repos\мин элемент\obj\Debug\мин элемент.csproj.CoreCompileInputs.cache
+C:\Users\Мистер Дюк\source\repos\мин элемент\obj\Debug\мин элемент.exe
+C:\Users\Мистер Дюк\source\repos\мин элемент\obj\Debug\мин элемент.pdb
